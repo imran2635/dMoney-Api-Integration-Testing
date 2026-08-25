@@ -1,4 +1,4 @@
-# DMoney API Integration Testing 
+# dMoney API Integration Testing 
 
 ## Project Overview
 This project shows how to test the DMoney Transaction API using Postman
