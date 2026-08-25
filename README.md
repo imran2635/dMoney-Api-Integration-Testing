@@ -1,7 +1,7 @@
 # dMoney API Integration Testing 
 
 ## Project Overview
-This project shows how to test the DMoney Transaction API using Postman
+This project shows how to test the dMoney Transaction API using Postman
 
 ## Tested Workflow
 - Admin Login
